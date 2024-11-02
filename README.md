@@ -14,6 +14,7 @@ Limitations: The model is trained on static images and does not recognize the le
 
 I hope this AI model will greatly benefit your work!
 #################################################################################################################################
+
 Giới thiệu Mô Hình AI của Tôi
 
 Chào mừng đến với mô hình AI của tôi, được thiết kế để nhận diện các dấu hiệu ngôn ngữ bằng hình ảnh. Dự án này sử dụng công nghệ Mediapipe để trích xuất tọa độ của các điểm landmarks trên bàn tay, từ đó giúp mô hình nhận diện các ký tự chữ cái.
