@@ -1,6 +1,10 @@
-Introduction to My AI Model
+Introduction to our AI Model
+Authors
+Le Thanh Sang
+Bui Dinh Khoi
+Nguyen Huu Cat Tuong
 
-Welcome to my AI model, designed to recognize sign language from images. This project uses Mediapipe technology to extract the coordinates of hand landmarks, allowing the model to identify alphabet characters.
+Welcome to our AI model, designed to recognize sign language from images. This project uses Mediapipe technology to extract the coordinates of hand landmarks, allowing the model to identify alphabet characters.
 
 Key Features:
 Mediapipe Technology: Accurately detects and extracts hand landmarks, unaffected by lighting or background variations.
