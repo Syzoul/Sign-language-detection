@@ -21,9 +21,11 @@ Limitations
 Only supports static gestures
 Does not recognize dynamic letters such as J and Z
 
+
 Hand Gesture Alphabet
 
 <img width="760" height="430" alt="image" src="https://github.com/user-attachments/assets/d40c28c9-9088-47a2-b30b-7061579d3bde" />
+
 
 
 Conclusion
