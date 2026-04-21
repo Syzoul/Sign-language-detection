@@ -1,10 +1,18 @@
 Introduction to our AI Model
+
 Authors
+
 Le Thanh Sang
+
 Bui Dinh Khoi
+
 Nguyen Huu Cat Tuong
 
+
 Welcome to our AI model, designed to recognize sign language from images. This project uses Mediapipe technology to extract the coordinates of hand landmarks, allowing the model to identify alphabet characters.
+
+The model uses the MediaPipe Hands library developed by Google to detect and extract hand features from input images. Instead of using raw image data for training, the proposed method uses the spatial coordinates of hand landmarks as input features. This representation reduces the data dimensionality, which helps shorten the training time and simplify the model. Despite using a simpler input representation, the model still achieves high recognition performance.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8bc251df-1659-4b32-a131-110b6d320477" />
 
 Key Features:
 Mediapipe Technology: Accurately detects and extracts hand landmarks, unaffected by lighting or background variations.
