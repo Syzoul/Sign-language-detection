@@ -25,7 +25,7 @@ Advantages of Landmarks: Landmarks provide accuracy, fast and simple training, a
 **Note:
 Limitations: The model is trained on static images and does not recognize the letters J and Z.**
 
-I hope this AI model will greatly benefit your work!
+We hope this AI model will greatly benefit your work!
 
 
 The following is the hand gesture alphabet used in the model.
