@@ -1,8 +1,13 @@
 Introduction to Our AI Model
+
 Authors
+
 Le Thanh Sang
+
 Bui Dinh Khoi
+
 Nguyen Huu Cat Tuong
+
 Overview
 
 This project presents an AI model for recognizing sign language alphabets from images. The system uses the MediaPipe Hands library developed by Google to extract hand landmark coordinates, which are then used as input features for classification.
@@ -10,14 +15,19 @@ This project presents an AI model for recognizing sign language alphabets from i
 Instead of using raw images, the model relies on hand landmark coordinates. This approach reduces data dimensionality, speeds up training, and simplifies the model while maintaining high recognition accuracy.
 
 Methodology
+
 Hand detection and feature extraction are performed using MediaPipe Hands
 A Multi-Layer Perceptron (MLP) is used for classification
 Input features: 21 hand landmarks (x, y, z coordinates)
+
 Key Features
+
 Efficient Training: Uses low-dimensional landmark data instead of images
 High Performance: Maintains strong accuracy despite simpler input
 Robustness: Less sensitive to lighting, background, and hand variations
+
 Limitations
+
 Only supports static gestures
 Does not recognize dynamic letters such as J and Z
 
