@@ -15,6 +15,7 @@ The model uses the MediaPipe Hands library developed by Google to detect and ext
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8bc251df-1659-4b32-a131-110b6d320477" />
 
 Key Features:
+
 Mediapipe Technology: Accurately detects and extracts hand landmarks, unaffected by lighting or background variations.
 
 MLP Neural Network Model: Uses MLP to classify sign language gestures into alphabet characters.
