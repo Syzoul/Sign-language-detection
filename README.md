@@ -30,6 +30,7 @@ Hand Gesture Alphabet
 
 
 Conclusion
+
 This model demonstrates that using hand landmarks is an efficient and effective approach for sign language recognition. It reduces computational cost while still achieving reliable performance.
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3530952e-51d9-406c-a410-c9ff30d8aef2" />
